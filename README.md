@@ -9,22 +9,26 @@ TypeScript ist seit vielen Jahre eine echte Alternative zu JavaScript und wird v
 Bei dem verwendeten Repository handelt es sich um eine "Test-/Entwicklungsumgebung für JavaScript und TypeScript". Sie basiert auf Gulp, TypeScript/JS, ES6+ und Sass. Folgend die verwendeten NODE und NPM Versionen unter MacOS X 10.15.7 und Windows 10:
 
 ## MAC X 10.15.7:
-NODE 14.18.1
+NODE 14.18.1\
 NPM 6.14.15
 
 ## WINDOWS 10:
-NODE 12.22.7
+NODE 12.22.7\
 NPM 6.14.15
 
 ## Installierte Node Versionen prüfen
 Nach der Installtion sollten wir die Versionen von node, npm, and npx prüfen! Im ergebnis sollten folgende Versionen installiert sein:
-`node -v //v12.22.7`
-`npm -v //6.14.15`
-`npx -v //6.14.15`
+`node -v //v12.22.7`\
+`npm -v //6.14.15` NPM - verwaltet Pakete, kann aber keine pakete ausführen, Pakete auszuführen. \
+`npx -v //6.14.15` NPX - ein Tool zum Ausführen von Node-Paketen.
 
-## Gulp
-Wenn Sie gulp bereits global installiert haben, führen Sie `npm rm --global gulp`aus, und installieren die aktuelle Version von Gulp, sowie die Gulp-CLI:
-`npm --global gulp-cli`.
+## Gulp installieren und neues Projekt erstellen
+Wenn Sie gulp bereits global installiert haben, führen Sie `npm rm --global gulp`  aus um ihre Version zu deinstallieren.\
+Danach installieren Sie das Kommandozeilenprogramm gulp: `npm --global gulp-cli`\
+Erzeugen ein Projektverzeichnis: `npx mkdirp my-project` oder wechseln Sie ihr Projektverzeichnis `cd my-project`\
+Erstellen Sie eine package.json-Datei in Ihrem Projektverzeichnis: `npm init`\
+Installieren Sie das gulp-Paket ihrer dev-Abhängigkeiten aus der package.json: `npm install --save-dev gulp`\
+Überprüfen Sie Ihre Gulp-Versionen: `gulp --version`\
 
 ## Befehle
 `npm install` ist der Befehl, der alle Packages installiert und alle Abhänigkeiten auflöst.
