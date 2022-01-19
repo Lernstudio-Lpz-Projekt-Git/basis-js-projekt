@@ -1,6 +1,6 @@
 # basis-js-projekt
 
-Bei diesem Repository handelt es sich um meine "Test-/Entwicklungsumgebung" die auf Gulp, TypeScript/JS, ES6+ und Sass basiert.
+Bei diesem Repository handelt es sich um eine "Test-/Entwicklungsumgebung" die auf Gulp, TypeScript/JS, ES6+ und Sass basiert.
 
 # IDE 11/2021 - JavaScript Entwicklungsumgebung
 
