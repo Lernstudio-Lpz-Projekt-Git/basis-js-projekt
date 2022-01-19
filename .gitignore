@@ -1,3 +1,9 @@
+/node_modules
+/dist
+/coverage
+.DS_Store
+package-lock.json
+
 # Logs
 logs
 *.log
