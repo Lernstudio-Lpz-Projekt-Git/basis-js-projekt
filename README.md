@@ -16,6 +16,9 @@ NPM 6.14.15
 NODE 12.22.7
 NPM 6.14.15
 
+Nach der Installtion sollten wir die Versionen von node, npm, and npx prüfen!
+Wenn Sie gulp bereits global installiert haben, führen Sie `npm rm --global gulp`aus, bevor Sie diesen Anweisungen folgen
+
 ## Befehle
 `npm install` ist der Befehl, der alle Packages installiert und alle Abhänigkeiten auflöst.
 
