@@ -25,7 +25,7 @@ const gulpEsbuild = createGulpEsbuild({ incremental: false })
 
 // Define important variables
 const src = './src';
-const dest = './dist';
+const dest = './dest';
 const useTypeScript = false;
 
 // Reload the browser

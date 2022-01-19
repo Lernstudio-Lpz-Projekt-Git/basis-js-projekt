@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Unleashed-Design/basic-dev-environment-2020.git"
+        "url": "https://github.com/Lernstudio-Lpz-Projekt-Git/basis-js-projekt.git"
     },
     "keywords": [
         "Gulp",
@@ -25,9 +25,9 @@
     "author": "Johannes Schiel",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Unleashed-Design/basic-dev-environment-2020/issues"
+        "url": "https://github.com/Lernstudio-Lpz-Projekt-Git/basis-js-projekt/issues"
     },
-    "homepage": "https://github.com/Unleashed-Design/basic-dev-environment-2020#readme",
+    "homepage": "https://github.com/Lernstudio-Lpz-Projekt-Git/basis-js-projekt/blob/main/README.md",
     "devDependencies": {
         "autoprefixer": "^10.2.5",
         "babel-runtime": "^6.26.0",

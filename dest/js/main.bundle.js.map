@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/script/main.js"],
+  "sourcesContent": ["function add(a, b) {\n    return a + b;\n}\n\nmodule.exports = add;\n"],
+  "mappings": "oEAAA,2BAAa,EAAG,EAAG,CACf,MAAO,GAAI,EAGf,EAAO,QAAU",
+  "names": []
+}
