@@ -1,4 +1,4 @@
-# basis-js-projekt
+# Basis Javascript Projekt- und Entwicklungsumgebung
 
 Bei diesem Repository handelt es sich um eine "Test-/Entwicklungsumgebung" die auf Gulp, TypeScript/JS, ES6+ und Sass basiert.
 
