@@ -24,11 +24,11 @@ Nach der Installtion sollten wir die Versionen von node, npm, and npx prüfen! I
 
 ## Gulp installieren und neues Projekt erstellen
 Wenn Sie gulp bereits global installiert haben, führen Sie `npm rm --global gulp`  aus um ihre Version zu deinstallieren.\
-Danach installieren Sie das Kommandozeilenprogramm gulp: `npm --global gulp-cli`
-Erzeugen ein Projektverzeichnis: `npx mkdirp my-project` oder wechseln Sie ihr Projektverzeichnis `cd my-project`
-Erstellen Sie eine package.json-Datei in Ihrem Projektverzeichnis: `npm init`
-Installieren Sie das gulp-Paket ihrer dev-Abhängigkeiten aus der package.json: `npm install --save-dev gulp`
-Überprüfen Sie Ihre Gulp-Versionen: `gulp --version`
+Danach installieren Sie das Kommandozeilenprogramm gulp: `npm --global gulp-cli`\
+Erzeugen ein Projektverzeichnis: `npx mkdirp my-project` oder wechseln Sie ihr Projektverzeichnis `cd my-project`\
+Erstellen Sie eine package.json-Datei in Ihrem Projektverzeichnis: `npm init`\
+Installieren Sie das gulp-Paket ihrer dev-Abhängigkeiten aus der package.json: `npm install --save-dev gulp`\
+Überprüfen Sie Ihre Gulp-Versionen: `gulp --version`\
 
 ## Befehle
 `npm install` ist der Befehl, der alle Packages installiert und alle Abhänigkeiten auflöst.
